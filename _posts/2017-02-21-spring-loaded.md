@@ -18,6 +18,7 @@ categories: Java
 
 **STEP2：**
 Window -> Preferences -> Java -> Installed JREs
+
 ![](https://rawgit.com/licaomeng/licaomeng.github.io/master/images/spring-loaded/2.jpg)
 然后Edit Installed JREs, Default VM arguments 添加参数：
 -javaagent:c:/springloaded-1.2.5.RELEASE.jar –noverify
