@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Nginx初探(A Glimpse of Nginx)"
+date:   2015-09-12 18:20:19
+categories: Java
+---
 前段时间在帮手公司做微信公众号，使用到了Nginx做反向代理，发现Nginx真的是个好东西。
 >**我为什么使用Nginx？**
 
