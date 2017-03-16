@@ -6,7 +6,7 @@ categories: Nginx
 ---
 前段时间在帮手公司做微信公众号，使用到了Nginx做反向代理，发现Nginx真的是个好东西。
 
-##我为什么使用Nginx？
+>我为什么使用Nginx？
 
 我们的微信公众号开发是使用前后端分离的架构，后端使用java做WebService, 前端就是用html5 + jQuery。下面就来说下web 服务器选择的几个阶段。
 
