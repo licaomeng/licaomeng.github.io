@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "使用spring-loaded实现java web的热部署"
-date:   2017-02-21 18:20:19
+date:   2017-02-21 18:20:20
 categories: Java
 ---
 做过java web的同学应该都知道jvm 的hotswap。例如你在使用tomcat作为web容器的时候，在debug模式下启动tomcat，你这个时候修改java代码，会立即生效。但是，这个“修改”是有条件限制的：就是你只能够修改方法体中的内容。这就苦了我们的工程师，如果修改方法名，修改方法参数类型、数量，新增变量、方法，这些都是不可以奏效的。这时，eclipse会弹出一个窗口提示。
