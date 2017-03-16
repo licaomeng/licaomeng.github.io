@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Nginx初探(A Glimpse of Nginx)"
 date:   2017-03-16 23:06:19
