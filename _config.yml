@@ -3,13 +3,13 @@ title: Paper Theme
 description: > # this means to ignore newlines until "baseurl:"
   A gentle theme for Jekyll utilising material design.
 baseurl: "/" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site you most probably don't need to set it
+url: "http://licaomeng.github.io/" # the base hostname & protocol for your site you most probably don't need to set it
 
 # Build settings
 markdown: kramdown
 paginate: 5 # pagination based on number of posts
 paginate_path: "page/:num"
-highlighter: rouge
+highlighter: pygments
 gems: [jekyll-paginate, jekyll-coffeescript]
 
 # comments
@@ -17,12 +17,12 @@ disqus: # add disqus shortname here
 
 # author info
 # add your appropriate info here
-author: # your name
+author: Caomeng Li
 bio:    # your bio
-email:
-email_md5: # md5 hash of your email
-twitter_username:
-github_username:
+email: licaomeng@gmail.com
+email_md5: 660563477993D3C21A1DB7C9C123D0D9
+twitter_username:licaomeng
+github_username: licaomeng
 
 # Theming options
 # These settings are mandatory.
