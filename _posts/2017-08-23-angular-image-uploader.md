@@ -2,7 +2,7 @@
 layout: post
 title:  "Angular 图片裁剪上传插件"
 date:   2017-08-23 18:51:20
-categories: Java
+categories: front-end
 ---
 本文将介绍基于Angular的图片裁剪上传插件。
 github: https://github.com/licaomeng/angular-image-upload
